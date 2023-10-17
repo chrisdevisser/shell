@@ -49,7 +49,6 @@ else
 fi
 
 # Build GCC
-export
 contrib/download_prerequisites
 
 mkdir build || true
